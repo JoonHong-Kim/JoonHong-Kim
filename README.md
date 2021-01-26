@@ -3,7 +3,7 @@
 
 ## Machine Learning
 
-sung kim의 유튜브 모두를 위한 딥러닝 을 보고 요약한 글들
+sung kim의 유튜브 모두를 위한 딥러닝 을 보고 요약한 글들(개판임)
 
 https://www.notion.so/Machine_Learning-3eda30f53aea44ed94d5effd2f7acd80
 
