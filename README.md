@@ -16,3 +16,9 @@ https://www.notion.so/NLP-01-Text-Classification-cc843372236d41918181744de49d56f
 <!--
 **danielkim30433/danielkim30433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+## Android
+
+Android(Kotlin) 공부했던 내용 요약 노트입니다
+
+https://www.notion.so/Android-f06a25a965b349a8a7324fadb949c27e
