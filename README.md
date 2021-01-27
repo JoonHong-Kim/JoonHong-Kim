@@ -13,9 +13,6 @@ https://www.notion.so/Machine_Learning-3eda30f53aea44ed94d5effd2f7acd80
 NLP 01. Text Classification
 
 https://www.notion.so/NLP-01-Text-Classification-cc843372236d41918181744de49d56f8
-<!--
-**danielkim30433/danielkim30433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 ## Android
 
