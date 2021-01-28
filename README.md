@@ -14,6 +14,9 @@ NLP 01. Text Classification
 
 https://www.notion.so/NLP-01-Text-Classification-cc843372236d41918181744de49d56f8
 
+NLP 02. Nerual Language Model
+
+https://www.notion.so/NLP-02-Nerual-Language-Model-316e01d46d61421f860549b9a625a0c8
 ## Android
 
 Android(Kotlin) 공부했던 내용 요약 노트입니다
